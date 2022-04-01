@@ -1,3 +1,3 @@
 (fp_lib_table
-  (lib (name RainCloud)(type KiCad)(uri ${ALPENGLOWMOD}/KiCAD_Libs/RainCloud.pretty)(options "")(descr ""))
+  (lib (name RainCloud)(type KiCad)(uri ${ALPENGLOWMOD}/Alpenglow_HappyRainCloud_PCB/RainCloud.pretty)(options "")(descr ""))
 )
