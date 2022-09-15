@@ -5726,7 +5726,7 @@
   (gr_arc (start 114.8 99.5) (mid 112.2 102.1) (end 109.6 99.5) (layer "F.Mask") (width 0.635) (tstamp 746ba970-8279-4e7b-aed3-f28687777c21))
   (gr_circle (center 111.3 100.4) (end 144.4 100.4) (layer "Eco1.User") (width 15) (fill none) (tstamp afb8e687-4a13-41a1-b8c0-89a749e897fe))
   (gr_circle (center 111.3 100.4) (end 137.5128 100.4) (layer "Edge.Cuts") (width 0.127) (fill none) (tstamp 55e740a3-0735-4744-896e-2bf5437093b9))
-  (gr_text "+ = LONG\n- = SHORT" (at 116.205 109.347) (layer "B.SilkS") (tstamp 1f8b2c0c-b042-4e2e-80f6-4959a27b238f)
+  (gr_text "+ LONG\n- SHORT" (at 116.205 109.347) (layer "B.SilkS") (tstamp 1f8b2c0c-b042-4e2e-80f6-4959a27b238f)
     (effects (font (size 1.27 1.27) (thickness 0.1778)) (justify left mirror))
   )
   (gr_text "OFF" (at 135.001 99.568 -15) (layer "B.SilkS") (tstamp 582bf52d-f931-4c83-b941-f1087e1fcfee)
