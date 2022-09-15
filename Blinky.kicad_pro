@@ -94,8 +94,6 @@
         "zone_has_empty_net": "error",
         "zones_intersect": "error"
       },
-      "rule_severitieslegacy_courtyards_overlap": true,
-      "rule_severitieslegacy_no_courtyard_defined": false,
       "rules": {
         "allow_blind_buried_vias": false,
         "allow_microvias": false,
@@ -132,7 +130,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "BlinkyWhiteSilkCloud.kicad_pro",
+    "filename": "Blinky.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -164,7 +162,7 @@
     "last_paths": {
       "gencad": "",
       "idf": "",
-      "netlist": "Blinky.net",
+      "netlist": "",
       "specctra_dsn": "",
       "step": "",
       "vrml": ""
@@ -180,9 +178,9 @@
     },
     "legacy_lib_dir": "",
     "legacy_lib_list": [],
-    "net_format_name": "Pcbnew",
-    "page_layout_descr_file": "",
-    "plot_directory": "",
+    "net_format_name": "",
+    "page_layout_descr_file": "C:/Users/AlpenglowShop/Box/KiCad/Templates/AlpenglowTitleBlock.kicad_wks",
+    "plot_directory": "./",
     "spice_adjust_passive_values": false,
     "subpart_first_id": 65,
     "subpart_id_separator": 0
