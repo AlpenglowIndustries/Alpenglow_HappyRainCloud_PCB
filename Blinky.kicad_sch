@@ -426,7 +426,7 @@
     (property "Value" "LED" (id 1) (at 129.0828 104.1908 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "LED_THT:LED_D5.0mm" (id 2) (at 132.08 102.87 0)
+    (property "Footprint" "Alpenglow:Alpenglow_LED_D5.0mm" (id 2) (at 132.08 102.87 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 132.08 102.87 0)
@@ -445,7 +445,7 @@
     (property "Value" "LED" (id 1) (at 149.4028 104.1908 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "LED_THT:LED_D5.0mm" (id 2) (at 152.4 102.87 0)
+    (property "Footprint" "Alpenglow:Alpenglow_LED_D5.0mm" (id 2) (at 152.4 102.87 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 152.4 102.87 0)
@@ -499,7 +499,7 @@
     (property "Value" "LED" (id 1) (at 139.2428 104.1908 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "LED_THT:LED_D5.0mm" (id 2) (at 142.24 102.87 0)
+    (property "Footprint" "Alpenglow:Alpenglow_LED_D5.0mm" (id 2) (at 142.24 102.87 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 142.24 102.87 0)
@@ -556,13 +556,13 @@
       (reference "BT1") (unit 1) (value "CR2032 Coin Cell") (footprint "BlinkyBadge:BatteryHolder_MPD_BK888_2032_THRU")
     )
     (path "/00000000-0000-0000-0000-00005fa33c39"
-      (reference "D1") (unit 1) (value "LED") (footprint "LED_THT:LED_D5.0mm")
+      (reference "D1") (unit 1) (value "LED") (footprint "Alpenglow:Alpenglow_LED_D5.0mm")
     )
     (path "/00000000-0000-0000-0000-00005fa3db03"
-      (reference "D2") (unit 1) (value "LED") (footprint "LED_THT:LED_D5.0mm")
+      (reference "D2") (unit 1) (value "LED") (footprint "Alpenglow:Alpenglow_LED_D5.0mm")
     )
     (path "/00000000-0000-0000-0000-00005fa34798"
-      (reference "D3") (unit 1) (value "LED") (footprint "LED_THT:LED_D5.0mm")
+      (reference "D3") (unit 1) (value "LED") (footprint "Alpenglow:Alpenglow_LED_D5.0mm")
     )
     (path "/00000000-0000-0000-0000-00005fa35b43"
       (reference "SW1") (unit 1) (value "SW_SPDT") (footprint "Alpenglow:Alpenglow_SW_SPDT_3pin_RTA")
